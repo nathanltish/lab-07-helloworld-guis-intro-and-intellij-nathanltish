@@ -1,4 +1,4 @@
-package edu.miracosta.cs112.lab07; //package name here depending on your IDE
+package edu.miracosta.cs112.lab07; //package name
 
 import javafx.application.Application;  //abstract class used for JavaFX GUI's
 import javafx.scene.control.TextField;  // class for TextField component
